@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" height="100" weigth="100">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="100" weigth="100">
 </p>
 
 ---
